@@ -1,7 +1,5 @@
 def introduce():
-    # This is modified by Alex
-    print("Hello, I'm Gittie!")
-    print("Author: Alex")
+    print("Hello, I'm your friend!")
 
 def joke():
     print("What is the difference between a snowman and a snowwoman? - Snowballs.")
